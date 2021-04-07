@@ -1,0 +1,6 @@
+[num] : (I-49|48|)
+loop [num]
+    out [num]
+    out (S-10|)
+    df [num] (I-49|)
+endloop

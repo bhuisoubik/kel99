@@ -1,0 +1,8 @@
+[times] : in
+tconv [times] I
+[num] : (I-50|)
+loop [times]
+    out [num]
+    out (S-10|)
+    ad [num] (I-50|)
+endloop

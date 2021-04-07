@@ -1,0 +1,11 @@
+out (S-66|97|115|101|32|)
+[base] : in
+out (S-80|111|119|101|114|32|)
+[pow] : in
+tconv [base] I 
+tconv [pow] I
+[res] : (I-49|)
+loop [pow]
+    ml [res] [base]
+endloop
+out [res]

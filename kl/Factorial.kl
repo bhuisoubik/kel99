@@ -1,0 +1,8 @@
+[num] : in
+tconv [num] I
+[fact] : (I-49|)
+loop [num]
+    ml [fact] [num]
+    df [num] (I-49|)
+endloop
+out [fact]

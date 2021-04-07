@@ -1,0 +1,5 @@
+[a]:in
+tconv [a] I
+[b]:in
+tconv [b] I
+out ad [a] [b]

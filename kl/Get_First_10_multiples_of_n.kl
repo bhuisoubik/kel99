@@ -1,0 +1,8 @@
+[num] : in
+tconv [num] I
+[mul] : [num]
+loop (I-49|48|)
+    out [num]
+    out (S-10|)
+    ad [num] [mul]
+endloop

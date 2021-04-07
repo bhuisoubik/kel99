@@ -1,0 +1,4 @@
+[name] : in
+out (S-72|105|44|32|)
+out [name]
+out (S-33|)
