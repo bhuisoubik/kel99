@@ -36,37 +36,7 @@ make clean
 ## Documentation
 For full documentation see the [Github Gist](https://gist.github.com/soubikbhuiwk007/19daf1b3410f66aa949d01a08cb3a5e7).
 
-## Examples
-##### Hello, World!
-```
-out (S-72|101|108|108|111|44|32|87|111|114|108|100|33|)
-```
-##### Add 1 + 2 in a Variable and print the Variable
-```
-[sum] : ad (I-49|) (I-50|)
-out [sum]
-```
-##### Print 1-10 numbers
-```
-[num] : (I-49|48|)
-loop [num]
-    out [num]
-    out (S-10|)
-    df [num] (I-49|)
-endloop
-```
-##### Factorial of a number from Input
-```
-[num] : in
-tconv [num] I
-[fact] : (I-49|)
-loop [num]
-    ml [fact] [num]
-    df [num] (I-49|)
-endloop
-out [fact]
-```
-#### For more example take a look at the `kl` folder in `root` dir.
+#### For example take a look at the `kl` folder in `root` dir.
 ## Issue
 To Report an Issue, see the [ISSUE GuideLines](ISSUE.md).
 
