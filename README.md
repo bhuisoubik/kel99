@@ -34,7 +34,7 @@ Run the following command in your terminal
 make clean
 ```
 ## Documentation
-For full documentation see the [Github Gist](https://gist.github.com/soubikbhuiwk007/19daf1b3410f66aa949d01a08cb3a5e7).
+For full documentation see the [Kel99 Documentation](https://gist.github.com/soubikbhuiwk007/19daf1b3410f66aa949d01a08cb3a5e7).
 
 #### For example take a look at the `kl` folder in `root` dir.
 ## Issue
