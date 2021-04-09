@@ -15,23 +15,23 @@ out (S-72|101|108|108|111|44|32|87|111|114|108|100|33|)
 2. `make` 3.82.90^
 #### Build
 (**By git**) Run the following commands in your terminal
-```
-git clone https://www.github.com/soubikbhuiwk007/kel99
-cd kel99
-make
+```shell
+$ git clone https://www.github.com/soubikbhuiwk007/kel99
+$ cd kel99
+$ make
 ```
 
 (**Locally**) Download the project as a zip file and extract it. Move to the project's root dir and run the command in your terminal.
-```
-make
+```shell
+$ make
 ```
 #### Installation
 1. [Build](#Build) the project.
 2. Add the location of the root folder to %PATH% env variable.
 #### Clean
 Run the following command in your terminal
-```
-make clean
+```shell
+$ make clean
 ```
 ## Documentation
 For full documentation see the [Kel99 Documentation](https://gist.github.com/soubikbhuiwk007/19daf1b3410f66aa949d01a08cb3a5e7).
