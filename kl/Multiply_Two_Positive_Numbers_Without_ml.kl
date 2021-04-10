@@ -1,1 +1,9 @@
-
+[a] : in
+tconv [a] I
+[b] : in
+tconv [b] I
+[value] : (I-48|)
+loop [b]
+    ad [value] [a]
+endloop
+out [value]
