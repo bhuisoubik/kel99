@@ -23,4 +23,7 @@ Make sure you answer the following questions.
 
 ### Fork
 If you wish to contribute to this repo, then fork this repo and make sure you create a pull request.
+
+## Submitting a Pull Request
+
 ***
