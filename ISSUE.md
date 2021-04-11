@@ -22,7 +22,7 @@ Make sure you answer the following questions.
 1. Description of your Issue.
 
 ### Fork
-If you wish to contribute to this repo, then fork this repo and make sure you create a pull request.
+If you wish to contribute to this repo, then fork this repo and make sure you create a pull request according to the following guidelines.
 
 ## Submitting a Pull Request (PR)
 Make sure you answer the following questions.
