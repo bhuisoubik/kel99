@@ -13,8 +13,8 @@ out (S-72|101|108|108|111|44|32|87|111|114|108|100|33|)
 ```
 ## Building from Source
 #### Prerequisite
-1. `g++` 9.2.0^
-2. `make` 3.82.90^
+1. `g++`
+2. `make`
 #### Build
 (**By git**) Run the following commands in your terminal
 ```shell
