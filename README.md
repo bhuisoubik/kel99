@@ -1,5 +1,5 @@
 # KEL99
-### The Keyword Esoteric Language
+### The Keyword Esoteric Language (v1.0.0)
 **KEL99** is a high-level eso-lang that mostly uses keywords for its operations. It is designed to be more beginner friendly. The language is still not so matured. 
 
 An esoteric programming language (or Esolang) is a programming language designed to test the boundaries of computer programming language design, as a proof of concept, as software art, as a hacking interface to another language, or as a joke.
