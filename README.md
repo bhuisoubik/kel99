@@ -30,7 +30,7 @@ $ make
 #### Installation
 1. [Build](#Build) the project.
 2. Add the location of the root folder to %PATH% env variable.
-#### Clean
+#### Clean (Dist.)
 Run the following command in your terminal
 ```shell
 $ make clean
