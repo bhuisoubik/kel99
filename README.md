@@ -7,7 +7,7 @@ An esoteric programming language (or Esolang) is a programming language designed
 ## Syntax
 It uses Flags to define data type (String or Int) of a value.<br>
 And mostly every operations is done in keywords <br>
-##### Hello, World! example in KEL99
+##### `Hello, World!` example in KEL99
 ```
 out (S-72|101|108|108|111|44|32|87|111|114|108|100|33|)
 ```
