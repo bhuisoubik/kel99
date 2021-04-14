@@ -11,3 +11,4 @@ This folder contains some examples of Kel99 code.
 |[Print_10-1.kl](Print_10-1.kl)|Print 10 - 1|
 |[Power.kl](Power.kl)| Power of a number from input |
 |[Multiply_Two_Positive_Numbers_Without_ml.kl](Multiply_Two_Positive_Numbers_Without_ml.kl)| Take two `Int` values from input and multiply them without `ml` operator.|
+|[Fibonacci.kl](Fibonacci.kl)|Fibonacci of a number from `input`|
