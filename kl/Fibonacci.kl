@@ -1,1 +1,19 @@
+[times] : in
+tconv [times] I
+df [times] (I-50|)
 
+[n1] : (I-48|)
+[n2] : (I-49|)
+[n3] : [n1]
+
+out [n1]
+out (S-10|)
+out [n2]
+
+loop [times]
+    [n3] : ad [n1] [n2]
+    out (S-10|)
+    out [n3]
+    [n1] : [n2]
+    [n2] : [n3]
+endloop
