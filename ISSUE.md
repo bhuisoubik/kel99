@@ -28,4 +28,6 @@ If you wish to contribute to this repo, then fork this repo and make sure you cr
 Make sure you answer the following questions.
 1. What you have changed ?
 2. Why you have changed ?
+
+See the [Folder Guide](SRC_TREE.md) for folder navigation.
 ***
