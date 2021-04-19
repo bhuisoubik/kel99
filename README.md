@@ -42,6 +42,6 @@ For full documentation see the [Kel99 Documentation](https://gist.github.com/sou
 ## Issue
 To Report an Issue, see the [ISSUE GuideLines](ISSUE.md).
 ## Pull Request
-See the [PR Guidleines](https://github.com/soubikbhuiwk007/kel99/blob/master/ISSUE.md#submitting-a-pull-request-pr)
+See the [Pull-Request Guidleines](https://github.com/soubikbhuiwk007/kel99/blob/master/ISSUE.md#submitting-a-pull-request-pr)
 ### This project is licensed under [MIT License](./LICENSE).
 ***
