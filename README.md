@@ -29,7 +29,7 @@ $ make
 ```
 #### Installation
 1. [Build](#Build) the project.
-2. Add the location of the root folder to %PATH% env variable.
+2. Add the location of the root folder to %PATH% `or $PATH` env variable.
 #### Clean (Dist.)
 Run the following command in your terminal
 ```shell
